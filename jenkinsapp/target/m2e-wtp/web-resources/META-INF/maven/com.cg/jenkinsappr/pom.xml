@@ -43,7 +43,7 @@
   		<version>9.2.11.v20150529</version>
   		<configuration>
   			<httpConnector>
-  				<port>8088</port>
+  				<port>8087</port>
   			</httpConnector>
   		</configuration>
 		</plugin>
