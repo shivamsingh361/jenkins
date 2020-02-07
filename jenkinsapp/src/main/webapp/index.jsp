@@ -1,5 +1,6 @@
 <html>
 <body>
-<h2>Hello World! abc</h2>
+<center><h2>Hello World! </h2></center>
+this is new page
 </body>
 </html>
